@@ -3,7 +3,7 @@ Social and Colaborative Network
 
 Screenshots
 
-![alt text](https://github.com/marcfreir/Body-Mass-Index/blob/master/SCREENSHOTS/40.png)
+![alt text](https://github.com/marcfreir/Body-Mass-Index/blob/master/screenshots/40.png)
 ![alt text](https://github.com/marcfreir/Body-Mass-Index/blob/master/SCREENSHOTS/41.png)
 ![alt text](https://github.com/marcfreir/Body-Mass-Index/blob/master/SCREENSHOTS/42.png)
 ![alt text](https://github.com/marcfreir/Body-Mass-Index/blob/master/SCREENSHOTS/43.png)
