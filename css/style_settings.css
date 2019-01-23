@@ -1,0 +1,182 @@
+/* 
+    Created on : 11-Jul-2018, 11:56:43 PM
+    Author     : Marc Freir
+    License    : This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+*/
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+.navbar {
+	background-color: #8A2BE2;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a {
+	color: #B3ECEC;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
+	color: #fff;
+}
+#home{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+    background-color: #e3f4fc;
+	position: relative;
+    background-size: cover;
+    
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+.login-clean {
+    
+    background: #f1f7fc;
+    /*padding:180px 0;*/
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+  
+  .login-clean form {
+    max-width:320px;
+    width:90%;
+    margin:0 auto;
+    background-color:#ffffff;
+    padding:40px;
+    border-radius:4px;
+    color:#505e6c;
+    box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+  }
+  
+  .login-clean .illustration {
+    text-align:center;
+    padding:0 0 20px;
+    font-size:100px;
+  }
+  
+  .login-clean form .form-control {
+    padding-top: 20px;
+    background:#f7f9fc;
+    border:none;
+    border-bottom:1px solid #dfe7f1;
+    border-radius:0;
+    box-shadow:none;
+    outline:none;
+    color:inherit;
+    text-indent:8px;
+    height:42px;
+  }
+  
+  .login-clean form .btn-primary {
+    background: #8A2BE2;
+    border: none;
+    border-radius: 20px;
+    padding: 11px;
+    box-shadow: none;
+    margin-top: 26px;
+    text-shadow: none;
+    outline: none !important;
+  }
+  
+  .login-clean form .btn-primary:hover, .login-clean form .btn-primary:active {
+    background: #b4dce7;
+  }
+  
+  .login-clean form .btn-primary:active {
+    transform:translateY(1px);
+  }
+  
+  .login-clean form .forgot {
+    display:block;
+    text-align:center;
+    font-size:12px;
+    color:#6f7a85;
+    opacity:0.9;
+    text-decoration:none;
+  }
+  
+  .login-clean form .forgot:hover, .login-clean form .forgot:active {
+    opacity:1;
+    text-decoration:none;
+  }
+  
+  .logo{
+    
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    line-height: 90px;
+}
+
+#cat {
+	width: 50%;
+    height: 80%;
+    border-radius: 50%;
+    margin: 0 auto;
+    line-height: 90px;
+}
+
+footer {
+	width: 100%;
+	background-color: #8A2BE2;
+	padding: 5% 5% 5% 5%;
+	color: #fff;
+}
+.fa-facebook {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-twitter {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-google {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-linkedin {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-youtube {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa:hover {
+	color: #B3ECEC;
+	text-decoration: none;
+}
+.icon {
+	max-width: 100px;
+}
+#ft{
+    text-align: center;
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #fff;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+}

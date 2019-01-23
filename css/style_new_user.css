@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-Apr-2018, 8:16:47 AM
+    Author     : Marc Freir
+    License    : This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+*/
+
+body,
+html{
+    width: 100%;
+    height: 100%;
+    background: #191919;
+}
+.home{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+.item{
+    width: 500px;
+    height: 700px;
+    background: #fff;
+    border-radius: 20px;
+}
+.content{
+    height: 100%;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.in{
+    padding: 5px;
+    color: #8A2BE2;
+}
+.btn{
+    color: #fff;
+}
+.btn-default{
+    background: #8A2BE2;
+    border: 0;
+    border-radius: 20px;
+}
+.logo{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 3px solid #8A2BE2;
+    color: #8A2BE2;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    line-height: 90px;
+}
+input[type=text],
+input[type=password]{
+    background: 0 0;
+    border: 0;
+    box-shadow: none;
+    border-bottom: 1px solid #8A2BE2;
+    border-radius: 0;
+}
+.lg{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.input-group-addon{
+    background: 0 0;
+    border: 0;
+    color: #8A2BE2;
+}
+h5{
+    text-align: center;
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #fff;
+}
+h1{
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #000;
+}

@@ -1,0 +1,199 @@
+/* 
+    Created on : 18-Apr-2018, 5:01:43 AM
+    Author     : Marc Freir
+    License    : This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+*/
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+.navbar {
+	background-color: #8A2BE2;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a {
+	color: #B3ECEC;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
+	color: #fff;
+}
+#home{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+    background-color: #f1f7fc;
+	position: relative;
+    background-size: cover;
+    
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+.item{
+    padding-top: 5%;
+    width: 500px;
+    height: 450px;
+    /*background: #fff;*/
+    background: #f1f7fc;
+    border-radius: 5%;
+    
+    margin: 10% auto;
+
+    display: table-cell;
+	vertical-align: middle;
+	align-items: center;
+}
+#align-item {
+	vertical-align: middle;
+	margin: 8% auto;
+	
+}
+.content{
+    height: 100%;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.in{
+    padding: 5px;
+    color: #8A2BE2;
+}
+.btn{
+    color: #fff;
+}
+.btn-default{
+    background: #8A2BE2;
+    border: 0;
+    border-radius: 20px;
+}
+.logo{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 3px solid #8A2BE2;
+    color: #8A2BE2;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    line-height: 90px;
+}
+input[type=text],
+input[type=password]{
+    background: 0 0;
+    border: 0;
+    box-shadow: none;
+    border-bottom: 1px solid #8A2BE2;
+    border-radius: 0;
+}
+.lg{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.input-group-addon{
+    background: 0 0;
+    border: 0;
+    color: #8A2BE2;
+}
+#gap {
+    padding: 10px;
+}
+#ft{
+    text-align: center;
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #fff;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+    margin: 0 auto;
+}
+i{
+    font-family: Arial, sans-serif, monospace, Verdana;
+}
+h1{
+    text-align: center;
+    font-size: 16pt;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #000;
+}
+#logged{
+    text-align: center;
+    font-size: 16pt;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #8A2BE2;
+}
+#redirected{
+    text-align: center;
+    font-size: 12pt;
+    font-family: Arial, sans-serif, monospace, Verdana;
+    color: #8A2BE2;
+}
+/*
+.footer{
+    width: 500px;
+    height: 60px;
+    background: #8A2BE2;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+}
+*/
+#timmy {
+	width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 3px solid #8A2BE2;
+    color: #8A2BE2;
+    line-height: 90px;
+}
+footer {
+	width: 100%;
+	background-color: #8A2BE2;
+	padding: 5% 5% 5% 5%;
+	color: #fff;
+}
+.fa-facebook {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-twitter {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-google {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-linkedin {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa-youtube {
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+.fa:hover {
+	color: #B3ECEC;
+	text-decoration: none;
+}
+.icon {
+	max-width: 100px;
+}
