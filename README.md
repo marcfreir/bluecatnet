@@ -1,13 +1,11 @@
 # bluecatnet
-Social and Colaborative Network
+##### Social and Colaborative Network
 
-Project: BlueCat Network (Alfa Release)
+###### Project: BlueCat Network (Alfa Release)
+###### Author : Marc Freir
+###### License: This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-Author : Marc Freir
-
-License: This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-Screenshots
+##### Screenshots
 
 ![alt text](https://github.com/marcfreir/bluecatnet/blob/master/SCREENSHOTS/40.png)
 ![alt text](https://github.com/marcfreir/bluecatnet/blob/master/SCREENSHOTS/41.png)
@@ -19,3 +17,5 @@ Screenshots
 ![alt text](https://github.com/marcfreir/bluecatnet/blob/master/SCREENSHOTS/47.png)
 ![alt text](https://github.com/marcfreir/bluecatnet/blob/master/SCREENSHOTS/48.png)
 ![alt text](https://github.com/marcfreir/bluecatnet/blob/master/SCREENSHOTS/49.png)
+
+###### Contact me if you want: marcfreir@yandex.com £;)
